@@ -1,0 +1,5 @@
+C:\Users\Josh\Source\Repos\uptime\uptime\uptime\bin\Release\uptime.exe.config
+C:\Users\Josh\Source\Repos\uptime\uptime\uptime\bin\Release\uptime.exe
+C:\Users\Josh\Source\Repos\uptime\uptime\uptime\bin\Release\uptime.pdb
+C:\Users\Josh\Source\Repos\uptime\uptime\uptime\obj\Release\uptime.exe
+C:\Users\Josh\Source\Repos\uptime\uptime\uptime\obj\Release\uptime.pdb

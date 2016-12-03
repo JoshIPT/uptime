@@ -1,0 +1,6 @@
+C:\Users\Josh\Source\Repos\uptime\uptime\uptime\bin\Debug\uptime.exe.config
+C:\Users\Josh\Source\Repos\uptime\uptime\uptime\obj\Debug\uptime.csprojResolveAssemblyReference.cache
+C:\Users\Josh\Source\Repos\uptime\uptime\uptime\bin\Debug\uptime.exe
+C:\Users\Josh\Source\Repos\uptime\uptime\uptime\bin\Debug\uptime.pdb
+C:\Users\Josh\Source\Repos\uptime\uptime\uptime\obj\Debug\uptime.exe
+C:\Users\Josh\Source\Repos\uptime\uptime\uptime\obj\Debug\uptime.pdb
